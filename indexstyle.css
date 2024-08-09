@@ -1,0 +1,26 @@
+/* .nav-link current{
+    color: black;
+} */
+/* .nav-item :hover,#current{
+    color: gray;
+} */
+/* #current{
+    color: rgb(255, 185, 185);
+}  */
+  .link-dark:hover{
+    color: rgb(255, 255, 255) !important;
+  }
+  .nav-link{
+    font-weight: 600;
+  }
+   .text-secondary:hover{
+    color:rgb(229, 229, 229) !important;
+  }
+  .active{
+    color: rgb(224, 47, 224) !important;
+  }
+  .mybtn:hover{
+    background-color:rgb(15, 5, 15) !important;
+    color: white;
+
+  }
